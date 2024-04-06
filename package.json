@@ -1,0 +1,18 @@
+{
+  "name": "roli",
+  "version": "1.0.0",
+  "description": "Submission for RoliAI 'hackathon'",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crsche/roli.git"
+  },
+  "author": "Conor Scheidt, Apollo Touch",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "roli-tools": "^2.0.0-beta.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
